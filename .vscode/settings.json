@@ -1,0 +1,8 @@
+{
+    "code-runner.executorMap": {
+        "python": "clear && python3 -m pytest $fullFileName"
+    },
+    "cSpell.words": [
+        "urlify"
+    ]
+}
